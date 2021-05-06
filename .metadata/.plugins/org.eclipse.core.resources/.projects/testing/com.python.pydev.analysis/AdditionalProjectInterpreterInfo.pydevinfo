@@ -1,12 +1,40 @@
 -- VERSION_5
 -- START DISKCACHE_3
 C:\Users\ITAUser\Desktop\Python\.metadata\.plugins\org.eclipse.core.resources\.projects\testing\com.python.pydev.analysis\v2_indexcache
+Variables.variableDrills|1620257492699612500|C:\Users\ITAUser\Desktop\Python\testing\Variables\variableDrills.py
+Variables.variablesOutline|1620256765174902600|C:\Users\ITAUser\Desktop\Python\testing\Variables\variablesOutline.py
+ariam.aaron|1603945483323765400|C:\Users\ITAUser\Desktop\Python\testing\ariam\aaron.py
 -- END DISKCACHE
 -- START DICTIONARY
-0
+4
+3=C:\Users\ITAUser\Desktop\Python\testing\Variables\variableDrills.py
+1=C:\Users\ITAUser\Desktop\Python\testing\Variables\variablesOutline.py
+4=Variables.variableDrills
+2=Variables.variablesOutline
 -- END DICTIONARY
 -- START TREE 1
-0
+21
+A|1|A!1^29#1*19@
+a|2|a!1^11#1*19@a!3^46#1*35@
+alm|1|almostDone!3^90#1*35@
+b|1|b!3^50#1*35@
+c|1|c!3^53#1*35@
+d|1|d!3^56#1*35@
+don|1|done!3^77#1*35@
+e|1|e!3^64#1*35@
+f|1|f!3^67#1*35@
+g|1|g!3^70#1*35@
+h|1|h!3^73#1*35@
+i|1|i!3^84#1*35@
+j|1|j!3^87#1*35@
+lis|4|listInt!3^94#1*35@listString!3^99#1*35@listBoolean!3^103#1*35@listVar!1^52#1*19@
+nam|2|name!1^61#1*19@name!3^7#1*35@
+sma|1|smart!3^81#1*35@
+str|1|string!1^59#1*19@
+var|6|varC!1^44#1*19@var!1^72#1*19@var3!3^29#1*35@var1!3^20#1*35@varB!1^36#1*19@var2!3^25#1*35@
+x|1|x!3^33#1*35@
+y|1|y!3^37#1*35@
+z|1|z!3^42#1*35@
 -- END TREE
 -- START TREE 2
 0
